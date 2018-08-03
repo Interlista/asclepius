@@ -90,7 +90,7 @@ Patient Management
                               </select>
                             </div>
                           </div>
-                          asdasd  :
+                          
 
           
                           <div class="form-group">
@@ -137,7 +137,7 @@ Patient Management
     
     
     
-                    <div class="form-group">r
+                    <div class="form-group">
                       <label for="inputPassword3" class="col-sm-2 control-label">Finding / Intervention</label>
     
                       <div class="col-sm-10">
